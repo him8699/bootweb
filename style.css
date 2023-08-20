@@ -1,0 +1,21 @@
+.c1{
+    background: #c9d5dc;
+}
+.c2{
+    margin-top: -12px;
+    margin-bottom: -12px;
+    margin-right: 30px;
+}
+
+.c4{
+    background: #dccfcb;
+background: -webkit-linear-gradient(0deg, #dccfcb 0%, #be9f70 100%);
+background: linear-gradient(0deg, #dccfcb 0%, #be9f70 100%);
+background-repeat: no-repeat;
+}
+.c3{
+    background-color: #c9d5dc;
+    border-radius: 5%;
+    height: 30rem;
+    margin-top: 100px;
+}
